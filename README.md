@@ -22,7 +22,7 @@
 
 **1. 下载本技能包**
 ```bash
-git clone https://github.com/YOUR_USERNAME/club-owner-ai-toolkit.git
+git clone https://github.com/hgyd6y4tzm-dotcom/club-owner-ai-toolkit.git
 ```
 或直接下载 ZIP 解压到你的工作目录。
 

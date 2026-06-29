@@ -161,10 +161,10 @@ cd %USERPROFILE%
 
 ```bash
 # 下载技能包
-git clone https://github.com/YOUR_USERNAME/club-owner-ai-toolkit.git
+git clone https://github.com/hgyd6y4tzm-dotcom/club-owner-ai-toolkit.git
 ```
 
-> ⚠️ 上面链接里的 `YOUR_USERNAME` 我会替换成实际的 GitHub 地址。如果你已经拿到了真正的链接，替换掉即可。
+> 💡 上面的链接就是真实的下载地址，直接复制粘贴即可。
 
 ```bash
 # 进入技能包目录
